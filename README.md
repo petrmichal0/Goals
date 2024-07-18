@@ -7,7 +7,7 @@ Goals is a web application designed to help users set, track, and achieve their 
 ![Static Badge](https://img.shields.io/badge/status-online-brightgreen)
 
 ## Quick Look
-<img src="https://github.com/user-attachments/assets/478544d2-9be4-4121-af72-09f896c1cb7f" width="700" alt="Goals App Demo">
+<img src="https://github.com/user-attachments/assets/20ead64b-7aa2-44c5-ac94-5544adcd3c6e" width="700" alt="Goals App Demo">
 
 ## Table of Content
 - [Project Title and Description](#project-title-and-description)
@@ -67,10 +67,10 @@ After starting, go to [http://localhost:3000](http://localhost:3000) in your web
   </tr>
   <tr>
     <td style="border: 1px solid black; width: 310px; height: 310px; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/2af0a439-f8aa-4890-bf83-0407d1a0d018" width="300" height="300" alt="Homepage">
+      <img src="https://github.com/user-attachments/assets/ca90eeca-ac14-42cf-9de8-0e42e9a275c0" width="300" height="300" alt="Homepage">
     </td>
     <td style="border: 1px solid black; width: 310px; height: 310px; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/745a3558-32dd-400a-8c65-b5e7c01a12f4" width="300" height="300" alt="Goal Management">
+      <img src="https://github.com/user-attachments/assets/d79d9087-6f62-4e92-ba83-6a8aa3ddce24" width="300" height="300" alt="Goal Management">
     </td>
   </tr>
 </table>
